@@ -1,1 +1,1 @@
-# jap-ecommerce
+# ecommerce-capacitador
